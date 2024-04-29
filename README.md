@@ -17,7 +17,7 @@ With intuitive controls and captivating gameplay, players must strategically sho
 
 ## Getting Started
 To play Sheep Rescue, follow these steps:
-1. Clone or download the repository to your local machine: `git clone https://github.com/your_username/sheep-rescue.git`
+1. Clone or download the repository to your local machine:
 And then either open the Sheep Rescue app or:
 2. Open the project in Unity.
 3. Navigate to the Scenes folder and open the Main scene.
