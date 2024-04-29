@@ -1,0 +1,36 @@
+Game Development Project Report
+
+Project Overview:
+The project involved the development of a game using Unity, focusing on implementing various features to create an engaging gameplay experience. Key aspects included managing GameObjects, enhancing visual and audio elements, implementing scoring mechanics, manipulating user interfaces, and passing data between scenes.
+
+Features Implemented:
+
+1. Lists and Keeping Track of GameObjects:
+   - Sheep are spawned at regular intervals using spawn points and a script to manage their movement.
+
+2. Polishing the Game:
+   - Visuals: Introduced a visual effect where a small heart model flies up from saved sheep to signify their appreciation. The heart appears when a sheep is hit by hay, moves upwards, rotates, scales down, and disappears after a short duration.
+   - Sound Effects: Implemented sound effects to enhance player immersion. Players hear sound effects when shooting sheep.
+
+3. Keeping Score:
+   - Visual feedback is provided to the player to indicate their progress. Upon three sheep hitting an invisible trigger behind the hay machine, the game ends.
+
+4. Manipulating User Interfaces:
+   - The user interface dynamically updates to reflect the game state. When sheep are saved or fall down, the UI adjusts accordingly. If three sheep drop down, a game over window appears. Pressing the Escape key loads the Title scene.
+
+5. Title Screen Buttons:
+   - Implemented functionality for the title screen buttons:
+     - Clicking the Start button loads the Game scene.
+     - Clicking the Quit button closes the game.
+
+6. Passing Data Between Scenes:
+   - Added an option to change the color of the hay machine from the title screen. Clicking on the hay machine multiple times switches its color.
+
+Conclusion:
+The project successfully implemented various features to enhance the gameplay experience. By effectively managing GameObjects, polishing visual and audio elements, implementing scoring mechanics, manipulating user interfaces, and passing data between scenes, the game provides engaging and immersive gameplay. The development process involved utilizing Unity's features and scripting capabilities to create a cohesive and enjoyable gaming experience.
+
+Future Enhancements:
+Future iterations of the game could explore additional features such as:
+- Implementing more complex AI behaviors for sheep movement.
+- Adding power-ups or obstacles to increase gameplay complexity.
+- Enhancing visual effects and sound design for a more immersive experience.
